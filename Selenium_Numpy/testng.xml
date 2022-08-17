@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NumpySuite">
+  <test thread-count="5" name="NumpyTest">
+  <classes>
+      <class name="practice_forms.Techlistic_form"/>
+    </classes>
+  </test> <!-- NumpyTest -->
+</suite> <!-- NumpySuite -->
